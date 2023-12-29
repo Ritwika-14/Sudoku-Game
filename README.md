@@ -17,3 +17,5 @@ The Sudoku game is implemented using Java and object-oriented programming concep
 ## 👨‍💻 Contribution Guidelines
 
 If you find any bugs or issues with the game, feel free to open an issue or submit a pull request. Any contributions are welcome!
+
+![Preview](preview_image(1))
