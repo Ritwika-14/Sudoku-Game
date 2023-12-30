@@ -5,7 +5,6 @@ This is a Java-based Sudoku game with a GUI implementation. It allows players to
 ## 🚀 Getting Started
 
 To play the Sudoku game, follow these steps:
-
 1. Open the project in your favorite Java IDE.
 2. Compile and run the `Main.java` file.
 3. Choose a difficulty level and start playing!
